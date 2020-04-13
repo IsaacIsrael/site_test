@@ -1,0 +1,6 @@
+{
+  "name": "site_test",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
